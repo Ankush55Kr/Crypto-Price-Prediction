@@ -1,2 +1,2 @@
 # Crypto-Price-Prediction
-Learning model to predict crypto prices
+The project is a learning model to predict the price of crypto currencies using time-series-forecasting algorithms.
